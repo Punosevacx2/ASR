@@ -1,0 +1,10 @@
+faster-whisper
+jiwer
+pandas
+numpy
+matplotlib
+psutil
+av
+datasets
+jupyter
+ipykernel
